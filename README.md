@@ -1,4 +1,4 @@
-# Risk Scoring
+# STB Risk Scoring
 
 This repository provides a pipeline to predict suicide thought and behavior using a pre-trained XGBoost models. It normalizes the input data, applies the models, generates risk scores, and assigns percentile-based risk groups.
 
